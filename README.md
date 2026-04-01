@@ -1,24 +1,40 @@
-# Host-based-intrusion-detection-system-using-random
+# Host Based Intrusion Detection System Using Random Forest for a Hi-Tech Vault
 
-This project focuses on detecting malicious activities in a system using machine learning techniques and its tailored to a hi-tech vault.
+## Project Overview
+This project presents a Host-Based Intrusion Detection System (HIDS) designed to protect a high-tech vault by monitoring host activities and detecting malicious behavior using the Random Forest machine learning algorithm.
+
+## Objectives
+- Detect suspicious host activities
+- Prevent unauthorized access
+- Improve vault security through intelligent classification
 
 ## Features
 - Data preprocessing
-- Feature extraction
-- Machine learning classification
-- Intrusion detection
+- Feature engineering
+- Random Forest classification
+- Intrusion detection alerts
+- Performance evaluation
 
-## Tools Used
+## Technologies Used
 - Python
 - Pandas
-- Scikit-learn
 - NumPy
+- Scikit-learn
+- Matplotlib
 
 ## Project Structure
 - dataset/
 - source_code/
-- report/
+- trained_model/
 - screenshots/
+- report/
+
+## Machine Learning Model
+Random Forest was used because of:
+- High accuracy
+- Resistance to overfitting
+- Strong classification performance
 
 ## Author
 Emmanuel Chukwudi Agali
+Cybersecurity Researcher
